@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Soy estudiante de Ingeniería en Ciencias y Sistemas  
+## Soy estudiante con cierre de pensum de Ingeniería en Ciencias y Sistemas  
 
 - 👨‍💻 Actualmente estoy aprendiendo tecnologías de desarrollo web como Angular, JavaScript, React, etc.
 - 📚 Actualmente estoy aprendiendo todo sobre tecnologias Backend y Frontend 😅
